@@ -8,4 +8,4 @@ The strenghts of the application:
 
 Images: 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/ramonaistoc/taggedMap/blob/master/Photos/createnewtag.png)

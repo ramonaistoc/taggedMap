@@ -12,6 +12,6 @@ UI:
 ![Image of Yaktocat](https://github.com/ramonaistoc/taggedMap/blob/master/Photos/filter.jpg)
 ![Image of Yaktocat](https://github.com/ramonaistoc/taggedMap/blob/master/Photos/friendsmap.jpg)
 ![Image of Yaktocat](https://github.com/ramonaistoc/taggedMap/blob/master/Photos/recommandations.jpg)
-![Image of Yaktocat](https://github.com/ramonaistoc/taggedMap/blob/master/Photos/addtagpage.jpg)
+![Image of Yaktocat](https://github.com/ramonaistoc/taggedMap/blob/master/Photos/addtagpageapp.jpg)
 ![Image of Yaktocat](https://github.com/ramonaistoc/taggedMap/blob/master/Photos/addtagpageapp.jpg)
 

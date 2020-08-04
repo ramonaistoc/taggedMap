@@ -1,6 +1,6 @@
 # taggedMap
 
--mobile application developed using Flutter, Python, Flask, Google API, word2vec
+mobile application developed using Flutter, Python, Flask, Google API, word2vec
 
 The strenghts of the application:
 - user can mark visited places in a unique way using semantic attributes
